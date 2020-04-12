@@ -1,4 +1,5 @@
-# vue_todolist
+# Todo List Application built in Vue JS
+This is a simple application in Vue JS. Basic concepts for making an application. In this project i used the https://jsonplaceholder.typicode.com/todos API.
 
 ## To start the project:
 ```
