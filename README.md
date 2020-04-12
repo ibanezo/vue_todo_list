@@ -10,7 +10,7 @@ npm run serve
 ```
 # References:
 1. VueJs Documentation: https://vuejs.org/v2/guide/
-2. Travery Media: https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
+2. Traversy Media: https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
